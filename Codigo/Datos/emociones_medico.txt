@@ -1,0 +1,2 @@
+1,F,{'anger': 0.0, 'contempt': 0.016, 'disgust': 0.0, 'fear': 0.0, 'happiness': 0.831, 'neutral': 0.153, 'sadness': 0.0, 'surprise': 0.0}
+2,M,{'anger': 0.0, 'contempt': 0.016, 'disgust': 0.0, 'fear': 0.0, 'happiness': 0.831, 'neutral': 0.153, 'sadness': 0.0, 'surprise': 0.0}

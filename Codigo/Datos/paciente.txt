@@ -1,0 +1,4 @@
+1,Laura,Mendez,456,holana,Zarcero,F,Febrero
+2,Ana,Mendez,123,holana,Zarcero,F,Febrero
+3,Oscar,Mata,789,holaoscar,Zarcero,M,Septiembre
+4,Lauren,Araya,456,1010,Zarcero,F,23/04/2002

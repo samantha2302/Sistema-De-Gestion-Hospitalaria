@@ -1,0 +1,2 @@
+1, Andrea , Oscar, 21/06/2021, 90 minutos, 25 dolares, 70 dolares, ['El diagnostico es adiccion a las drogas.', 'El diagnostico es trastorno bipolar.', 'El diagnostico es desordenes de ansiedad.']
+2, Jason, Ana, 21/06/2021, 50 minutos, 30 dolares, 45 dolares, ['El diagnostico es adiccion a las drogas.', 'El diagnostico es desordenes de ansiedad.']

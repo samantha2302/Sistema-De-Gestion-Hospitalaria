@@ -1,0 +1,2 @@
+1,F,['El diagnostico es adiccion a las drogas.', 'El diagnostico es trastorno bipolar.', 'El diagnostico es desordenes de ansiedad.']
+1,F,['El diagnostico es adiccion a las drogas.', 'El diagnostico es trastorno bipolar.', 'El diagnostico es desordenes de ansiedad.', 'El diagnostico es adiccion a las drogas.', 'El diagnostico es desordenes de ansiedad.']
