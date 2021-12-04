@@ -5,3 +5,5 @@ El proyecto consiste en:
   •	Implementar, validar y documentar programas.
   •	Manejar conceptos y terminología fundamentales en las ciencias de la computación.
   •	Conocer aspectos importantes del papel de la programación dentro de la computación, la realidad nacional e internacional.
+  
+  Creado con Python y Tkinter.
