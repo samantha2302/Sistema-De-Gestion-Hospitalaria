@@ -1,6 +1,6 @@
 # Sistema de Gestión Hospitalaria
 Instituto Tecnológico de Costa Rica.<br />
-Samantha Acuña Montero, Katherine Amador González.
+Samantha Acuña Montero, Katherine Amador González.<br />
 Proyecto de taller de programacion, primer semestre, 2021.<br />
 
 El proyecto consiste en:<br />
