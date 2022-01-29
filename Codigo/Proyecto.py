@@ -67,7 +67,7 @@ import tkinter.messagebox as messagebox
 
 # Reconocimiento Facial.
 SUBSCRIPTION_KEY = None
-SUBSCRIPTION_KEY = 'dbab3ae6c0bf483aa2b696698d1711e1'
+SUBSCRIPTION_KEY = '' # Poner clave
 BASE_URL = 'https://southcentralus.api.cognitive.microsoft.com'
 OPTION = '/face/v1.0/'
 CF.BaseUrl.set(BASE_URL)
@@ -424,7 +424,7 @@ def CrearArchivoParteMedico():
         file.close()
 def EmocionesParteMedico(imagenes_path):
     SUBSCRIPTION_KEY = None
-    SUBSCRIPTION_KEY = 'dbab3ae6c0bf483aa2b696698d1711e1'
+    SUBSCRIPTION_KEY = '' # Poner clave
     BASE_URL = 'https://southcentralus.api.cognitive.microsoft.com'
     OPTION = '/face/v1.0/'
     CF.BaseUrl.set(BASE_URL)
